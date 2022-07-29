@@ -27,3 +27,8 @@ https://leetcode.com/discuss/interview-experience/744895/google-mtv-l4-machine-l
 someone in the comments said this cheetsheet helped them get the job https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html <br>
 
 everyone says this free course is gold for preparing the inerview Andrew Ng's ML course youtube <br>
+
+https://www.youtube.com/watch?v=K4kcAT0Y8Yg&t=106s first algorithm book, then grokking the coding interview course which is amazing, then leetcode, then whe used pramp website for mock interviews<br>
+
+c229 course on machine learning stanford course fo rmL
+NLP: (the girl lists topics in the video) CS230 stanford course
