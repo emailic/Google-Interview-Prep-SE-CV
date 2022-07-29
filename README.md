@@ -21,3 +21,4 @@ https://www.educative.io/blog/google-coding-interview
 https://medium.com/google-design/human-centered-machine-learning-a770d10562cd <br>
 https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/ <br>
 https://igotanoffer.com/blogs/tech/google-machine-learning-engineer-interview <br>
+.
