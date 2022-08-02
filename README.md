@@ -34,3 +34,5 @@ c229 course on machine learning stanford course fo rmL <br>
 NLP: (the girl lists topics in the video) CS230 stanford course<br><br>
 
 supposedly nearly everyone who contirbuted here in the past was hired https://summerofcode.withgoogle.com/get-started<br>
+https://www.interviewquery.com/interview-guides/google-machine-learning-interview-questions <br>
+https://www.interviewquery.com/interview-guides/google-machine-learning-interview-questions<br>
