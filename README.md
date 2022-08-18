@@ -38,3 +38,5 @@ https://www.interviewquery.com/interview-guides/google-machine-learning-intervie
 https://www.interviewquery.com/p/python-machine-learning-interview-questions <br>
 
 https://mml-book.github.io/book/mml-book.pdf maths for ml <br>
+
+some basic ML formulas i might b asked at the int4erview https://blmoistawinde.github.io/ml_equations_latex/
