@@ -64,3 +64,7 @@ in this video they cover https://mail.google.com/mail/u/0/#search/google/FMfcgzG
 ![image](https://user-images.githubusercontent.com/83206159/185788888-c1d40ccb-0dd5-4011-a087-d41250c5b738.png)
 ![image](https://user-images.githubusercontent.com/83206159/185788927-4e18e488-5c9e-4a65-a5f4-ce8ae1b871b3.png)
 
+
+https://neptune.ai/blog/machine-learning-engineer-interview <br>
+https://huyenchip.com/ml-interviews-book/ <br>
+https://towardsdatascience.com/acing-machine-learning-interviews-aa73d6d7b07b <br>
