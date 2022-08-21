@@ -49,3 +49,12 @@ some basic ML formulas i might b asked at the int4erview https://blmoistawinde.g
  -  other tips from google email https://techdevguide.withgoogle.com/
  
 - https://techdevguide.withgoogle.com/resources/?topics=machine-learning ml topics and interview prep by very google
+
+in this video they cover https://mail.google.com/mail/u/0/#search/google/FMfcgzGpHHKCrHCRxsxCdlXhQHwkQQbg?projector=1 :
+- communication and collaboration,
+- algorithms and DS
+- coding
+- testing and error checking
+- overall best practices
+
+![Alt text](https://github.com/emailic/Google-Interview-Prep-SE-NLP/blob/main/2022-08-21.png?raw=true "important thigs to cover for int")
