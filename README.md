@@ -31,7 +31,7 @@ everyone says this free course is gold for preparing the inerview Andrew Ng's ML
 https://www.youtube.com/watch?v=K4kcAT0Y8Yg&t=106s first algorithm book, then grokking the coding interview course which is amazing, then leetcode, then whe used pramp website for mock interviews<br>
 
 c229 course on machine learning stanford course fo rmL <br>
-NLP: (the girl lists topics in the video) CS230 stanford course<br><br>
+NLP: (the girl lists topics in the video) CS230 stanford course, DL<br><br>
 
 supposedly nearly everyone who contirbuted here in the past was hired https://summerofcode.withgoogle.com/get-started<br>
 https://www.interviewquery.com/interview-guides/google-machine-learning-interview-questions <br>
@@ -46,6 +46,7 @@ some basic ML formulas i might b asked at the int4erview https://blmoistawinde.g
  - introduction to algorithms
  - 'So ask. Ask if they care about syntax, and if they do, try to get it right. Look over your code carefully from different angles and distances. Pretend it's someone else's code and you're tasked with finding bugs in it. You'd be amazed at what you can miss when you're standing 2 feet from a whiteboard with an interviewer staring at your shoulder blades.'
  - practical concurrent programming book (i guess this is for cs fundamentals)
+ - Operating Systems: processes, threads and concurrency issues
  -  other tips from google email https://techdevguide.withgoogle.com/
  
 - https://techdevguide.withgoogle.com/resources/?topics=machine-learning ml topics and interview prep by very google
@@ -59,5 +60,6 @@ in this video they cover https://mail.google.com/mail/u/0/#search/google/FMfcgzG
 
 ![Alt text](https://github.com/emailic/Google-Interview-Prep-SE-NLP/blob/main/2022-08-21.png?raw=true "important thigs to cover for int")
 
--![image](https://user-images.githubusercontent.com/83206159/185788888-c1d40ccb-0dd5-4011-a087-d41250c5b738.png)
+![image](https://user-images.githubusercontent.com/83206159/185788888-c1d40ccb-0dd5-4011-a087-d41250c5b738.png)
+![image](https://user-images.githubusercontent.com/83206159/185788927-4e18e488-5c9e-4a65-a5f4-ce8ae1b871b3.png)
 
