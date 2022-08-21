@@ -58,3 +58,6 @@ in this video they cover https://mail.google.com/mail/u/0/#search/google/FMfcgzG
 - overall best practices
 
 ![Alt text](https://github.com/emailic/Google-Interview-Prep-SE-NLP/blob/main/2022-08-21.png?raw=true "important thigs to cover for int")
+
+-![image](https://user-images.githubusercontent.com/83206159/185788888-c1d40ccb-0dd5-4011-a087-d41250c5b738.png)
+
