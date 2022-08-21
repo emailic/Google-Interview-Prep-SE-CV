@@ -47,3 +47,5 @@ some basic ML formulas i might b asked at the int4erview https://blmoistawinde.g
  - 'So ask. Ask if they care about syntax, and if they do, try to get it right. Look over your code carefully from different angles and distances. Pretend it's someone else's code and you're tasked with finding bugs in it. You'd be amazed at what you can miss when you're standing 2 feet from a whiteboard with an interviewer staring at your shoulder blades.'
  - practical concurrent programming book (i guess this is for cs fundamentals)
  -  other tips from google email https://techdevguide.withgoogle.com/
+ 
+- https://techdevguide.withgoogle.com/resources/?topics=machine-learning ml topics and interview prep by very google
