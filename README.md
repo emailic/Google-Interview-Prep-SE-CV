@@ -39,4 +39,10 @@ https://www.interviewquery.com/p/python-machine-learning-interview-questions <br
 
 https://mml-book.github.io/book/mml-book.pdf maths for ml <br>
 
-some basic ML formulas i might b asked at the int4erview https://blmoistawinde.github.io/ml_equations_latex/
+some basic ML formulas i might b asked at the int4erview https://blmoistawinde.github.io/ml_equations_latex/ <br>
+
+ advised in stevey's blog ranks: get that job at google (blog post advised to read by very google in the email mariel sent me: <br>
+ -https://www.amazon.es/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693
+ -introduction to algorithms
+ - 'So ask. Ask if they care about syntax, and if they do, try to get it right. Look over your code carefully from different angles and distances. Pretend it's someone else's code and you're tasked with finding bugs in it. You'd be amazed at what you can miss when you're standing 2 feet from a whiteboard with an interviewer staring at your shoulder blades.'
+ -practical concurrent programming book (i guess this is for cs fundamentals)
