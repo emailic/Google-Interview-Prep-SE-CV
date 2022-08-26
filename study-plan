@@ -1,10 +1,14 @@
 1. read initial chapters cracking the coding interview
 2. ALGORITHMS AND DS:
-- start algorithms course
-- print grokking the coding interview
+-use CTCI as a guide for topics, but rely on Grokking Algorithms and Elements of Programming Interviews in Python for a more comprehensive and simpler explanation of the topics, moreover, an explanation pertinent to Python. 
 
-5. FINAL MONTH: behavioural questions, mock interviews, revising previous topics
+
+4. MONTH BEFORE REACHING OUT TO THE RECRUITER:
+- leetcode atope. become a pro on time and space analysis
+5. MONTH before the first interview: behavioural questions, mock interviews, revising previous topics
+- re-read initial chapters of CTCI and elements of programming interviews in Python
 
 To revise before the interview:
 -examples and exercises in Big O chapter from CTCI
 -inheritence, classes, instances, objects
+-chapter 4  in Elements: primitive types: bitwise operators, masks, bit manipulations, signedness, shifting, cache..
