@@ -9,6 +9,6 @@
 - re-read initial chapters of CTCI and elements of programming interviews in Python
 
 To revise before the interview:
--examples and exercises in Big O chapter from CTCI
--inheritence, classes, instances, objects
--chapter 4  in Elements: primitive types: bitwise operators, masks, bit manipulations, signedness, shifting, cache..
+- examples and exercises in Big O chapter from CTCI
+- inheritence, classes, instances, objects
+- chapter 4  in Elements: primitive types: bitwise operators, masks, bit manipulations, signedness, shifting, cache..
