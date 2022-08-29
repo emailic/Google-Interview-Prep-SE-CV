@@ -1,16 +1,28 @@
-1. read initial chapters cracking the coding interview
-2. ALGORITHMS AND DS:
--use CTCI as a guide for topics, but rely on Grokking Algorithms and Elements of Programming Interviews in Python for a more comprehensive and simpler explanation of the topics, moreover, an explanation pertinent to Python. 
--use Python IDE, solve as many exercises as possible, try to understand time and space complexity
+1. read initial chapters cracking the coding interview and research bibliography
+(2 days)
 
-3. Formalize your approach using the instructions from CTCI. Start coding in notebook while also explaining (2 weeks or so).
+2. ALGORITHMS AND DS:
+- use CTCI as a guide for topics, but rely on Elements of Programming Interviews in Python for a more comprehensive and simpler explanation of the topics, moreover, an explanation pertinent to Python. 
+- use Python IDE, solve as many exercises as possible, try to understand time and space complexity
+- when done, revise the exercises u didn't understand and try to solve them now
+
+3. NOTEBOOK & EXPLAINING (2 weeks or so)
+- Formalize your approach using the instructions from CTCI.
+- Learn testing 
+- Start coding in notebook while also explaining 
+- Big O revision. Space analysis revision. 
 
 4. ML part
 
-5. 2-4 weeks BEFORE REACHING OUT TO THE RECRUITER:
-- leetcode atope. become a pro on time and space analysis. Revision of topics. testing.
+5. FINAL REVISION AND MOCK INTERVIEWS (2-6 weeks BEFORE REACHING OUT TO THE RECRUITER):
+- leetcode atope
+- become a pro on time and space analysis
+- Revision of topics
+- PRAMP super important
+- computer science fundamentals 
 
-6. MONTH before the first interview: behavioural questions, mock interviews, revising previous topics
+6. 2 WEEKS BEFORE INTERVIEW
+- behavioural questions, mock interviews, revising previous topics
 - re-read initial chapters of CTCI and elements of programming interviews in Python
 
 To revise before the interview:
