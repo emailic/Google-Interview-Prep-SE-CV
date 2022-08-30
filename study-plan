@@ -2,11 +2,13 @@
 (2 days)
 
 2. ALGORITHMS AND DS:
+- C0-C2 in EPI
 - use CTCI as a guide for topics, but rely on Elements of Programming Interviews in Python for a more comprehensive and simpler explanation of the topics, moreover, an explanation pertinent to Python. 
 - use Python IDE, solve as many exercises as possible, try to understand time and space complexity
 - when done, revise the exercises u didn't understand and try to solve them now
 
 3. NOTEBOOK & EXPLAINING (2 weeks or so)
+- C3 in EPI
 - Formalize your approach using the instructions from CTCI.
 - Learn testing 
 - Start coding in notebook while also explaining 
